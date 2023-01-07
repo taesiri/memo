@@ -17,7 +17,7 @@ Using the [new commit](https://github.com/zhangmarvin/memo/commit/76b37770869e7b
 
 ## Results  `ImageNet-A`
 
-<style type="text/css">
+<!-- <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -27,7 +27,7 @@ Using the [new commit](https://github.com/zhangmarvin/memo/commit/76b37770869e7b
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
-</style>
+</style> -->
 <table class="tg">
 <thead>
   <tr>
