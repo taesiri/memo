@@ -54,7 +54,7 @@ Using the [new commit](https://github.com/zhangmarvin/memo/commit/76b37770869e7b
   </tr>
   <tr>
     <td class="tg-dvpl">+Memo</td>
-    <td class="tg-dvpl">94.8</td>
+    <td class="tg-dvpl">94.7</td>
     <td class="tg-lqy6">94.8</td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ Using the [new commit](https://github.com/zhangmarvin/memo/commit/76b37770869e7b
   </tr>
   <tr>
     <td class="tg-dvpl">+Memo</td>
-    <td class="tg-dvpl">89.1</td>
+    <td class="tg-dvpl">89.2</td>
     <td class="tg-lqy6">89.0</td>
   </tr>
 </tbody>
